@@ -1,0 +1,22 @@
+body {
+	font-family: 'Noto Sans', sans-serif;
+	background-image: url("pic.jpg");
+	font-weight: bold;
+	text-align: center;
+	color: palevioletred;
+	font-size: x-large;
+}
+
+h1{
+	color: darkgoldenrod;
+}
+button {
+	background-color: darkgoldenrod;
+	width: 200px;
+	font-size: large;
+	font-weight: bold;
+	border-radius: 3px;
+	border: none;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
